@@ -29,6 +29,8 @@ This project analyzes customer shopping behavior using a retail transaction data
 - Revenue by Age Group
 
 ## Dashboard Highlights
+<img width="2101" height="1155" alt="image" src="https://github.com/user-attachments/assets/368acd81-d4a8-4bb5-84c3-abee23c0b228" />
+
 - Customer Distribution
 - Revenue by Category
 - Subscription Analysis
